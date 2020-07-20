@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ebay Application Test" duration-ms="32339" started-at="2020-07-20T20:37:03 IST" finished-at="2020-07-20T20:37:36 IST">
+    <groups>
+    </groups>
+    <test name="ebay Application Test Cases" duration-ms="32339" started-at="2020-07-20T20:37:03 IST" finished-at="2020-07-20T20:37:36 IST">
+      <class name="com.qa.ebay.testcases.EbayTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.ebay.testcases.EbayTest@63e2203c]" name="setup" is-config="true" duration-ms="14330" started-at="2020-07-20T20:37:03 IST" finished-at="2020-07-20T20:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTheResult()[pri:0, instance:com.qa.ebay.testcases.EbayTest@63e2203c]" name="verifyTheResult" duration-ms="16763" started-at="2020-07-20T20:37:18 IST" finished-at="2020-07-20T20:37:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheResult -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.qa.ebay.testcases.EbayTest@63e2203c]" name="close" is-config="true" duration-ms="1189" started-at="2020-07-20T20:37:34 IST" finished-at="2020-07-20T20:37:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qa.ebay.testcases.EbayTest -->
+    </test> <!-- ebay Application Test Cases -->
+  </suite> <!-- ebay Application Test -->
+</testng-results>
